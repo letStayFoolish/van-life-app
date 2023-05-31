@@ -2,6 +2,7 @@
 
 By _**Nemanja Karaklajic**_
 <hr>
+
 ### A simple interactive SPA written on React.js
 
 
